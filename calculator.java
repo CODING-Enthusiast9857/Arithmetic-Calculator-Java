@@ -1,8 +1,6 @@
-/***************************************************************************
-Program Name : Write a java program to create a Calculator using GridLayout.
-Programmer Name : Madhavi Sonawane.
-Date : 1st October 2021.
-****************************************************************************/
+/*********************************************************************************************
+Program Name : Write a java program to create a simple arithmetic calculator using GridLayout.
+**********************************************************************************************/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -279,7 +277,7 @@ class calculator extends Frame implements ActionListener
     }
     public static void main(String []args)
     {
-        calculator c=new calculator("Calculator | GridLayout");
+        calculator c=new calculator("Calculator");
         c.setVisible(true);
     }
 }
