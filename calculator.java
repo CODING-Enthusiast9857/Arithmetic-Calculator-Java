@@ -62,7 +62,8 @@ class calculator extends Frame implements ActionListener
         }
         addWindowListener(new WindowAdapter(){
             public void windowClosing(WindowEvent e){
-                System.exit(0);}
+                System.exit(0);
+            }
         });
     }
     public void actionPerformed(ActionEvent e)
