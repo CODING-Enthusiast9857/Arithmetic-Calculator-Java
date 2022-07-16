@@ -8,6 +8,6 @@
       <li>GridLayout is used to arrange buttons in row and column.</li>
     </ul>
     <h2>Screenshots</h2>
-    <img src="V:\Pictures\Calculator.png" alt="demo" height="500" width="300"/>
+    <img src="https://github.com/CODING-Enthusiast9857/Arithmetic-Calculator-Java/blob/main/Calculator.png" alt="demo"/>
   </body>
 </html>
