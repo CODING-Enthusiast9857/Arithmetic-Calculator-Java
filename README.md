@@ -1,4 +1,3 @@
-
 <html>
   <body>
     <h1 align="center"><p>&#128187 Arithmetic Calculator</h1></p>
